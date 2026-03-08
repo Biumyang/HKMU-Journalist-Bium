@@ -39,7 +39,3 @@ Algorithm
 - Heap Sort
 
 The implementation includes example code and demonstration.
-
----
-
-## Project Structure
